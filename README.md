@@ -25,9 +25,9 @@
 <a href="https://api.whatsapp.com/send?phone=15551234567&text=Hello Suleman Ali I Need Your Service">![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Sulemanali511)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemanalibuiltin&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sulemanalibuiltin&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sulemanali303)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemanali303&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sulemanali303&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
