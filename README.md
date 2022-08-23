@@ -26,6 +26,10 @@
 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sulemanali303)
+
+
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanali303&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemanali303&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sulemanali303&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
