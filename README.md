@@ -8,9 +8,7 @@
 <a href="https://stackoverflow.com/users/9182074/suleman-ali">
     <img src="https://img.shields.io/badge/Stack%20Overflow-802-F47F24">
 </a>
-
 <a href="https://github.com/sulemanali303?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sulemanali303?color=green&logo=github"></a>
-
 </p>
 
 
@@ -24,9 +22,12 @@
 
 - 💬 Ask me about **Swift,IOS,Django**
 
+
 - 💞️ I’m looking to collaborate on Opensource Project in Swift or Python
 - 📝 Checkout my [Resume](https://docs.google.com/document/d/1L3ez-1ZJftdwUzllSfcY9d8DudHKnVDy/edit?usp=sharing&ouid=109661156507991700405&rtpof=true&sd=true).
 
+
+<a href="https://www.upwork.com/freelancers/~011c14242b4a31e207?s=996364627857502209"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height="130" width = "500"  /> </a>
 
 #### Development Stuffs
 
