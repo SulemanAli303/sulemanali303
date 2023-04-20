@@ -14,13 +14,13 @@
 
 
 
-- 👋 Hi, I’m **@Suleman Ali** i am IOS Engineer. most of my work is based on Google Maps, places, directions Apis,Coorinates locations,Webrtc, XMPP and Banking, and Social Apps. from the the start of my gradtuation to now i am good programmer and participated in different competitions and won most of them, like **MICROSOFT Imagine Cup** & **Competitve Programming Chelleges**.
+- 👋 Hi, I’m **@Suleman Ali**  IOS Engineer. most of my work is based on Google Maps, places, directions Apis,Coorinates locations,Webrtc, XMPP and Banking, and Social Apps.
 
-- 👀 I’m interested in IOS development in swift as frontend and Django and C++ as backend Technologies.
+- 👀 I’m interested in IOS development in swift and Django,PHP as backend Technologies.
 
 - 🌱 I’m currently learning **C++** .
 
-- 💬 Ask me about **Swift,IOS,Django**
+- 💬 Ask me about **Swift,IOS,Django, PHP **
 
 
 - 💞️ I’m looking to collaborate on Opensource Project in Swift or Python
