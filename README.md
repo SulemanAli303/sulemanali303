@@ -41,7 +41,6 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Sulemanali303?theme=wtf&font=Contrail%20One&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/suleman.ali303/cf-stats/main/output/light_card.svg" />
 </p>
 
 #### My Current Stack
