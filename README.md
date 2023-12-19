@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Suleman Ali</h1>
-<h3 align="center">Mobile Application Developer From Pakistan</h3>
+<h3 align="center">Software Engineer From Pakistan</h3>
 <p align="left"> 
 <a href="https://github.com/sulemanali303?tab=visitors">
 <img src="https://komarev.com/ghpvc/?username=sulemanalibuiltin&label=Profile%20views&color=0e75b6&style=flat" alt="sulemanali303" /></a>
@@ -14,17 +14,17 @@
 
 
 
-- 👋 Hi, I’m **@Suleman Ali**  IOS Engineer. most of my work is based on Google Maps, places, directions Apis,Coorinates locations,Webrtc, XMPP and Banking, and Social Apps.
+- 👋 Hi, I’m **@Suleman Ali**  Software Engineer. most of my work is based on Google Maps, places, directions Apis,Coorinates locations,Webrtc, XMPP and Banking, and Social Apps.
 
-- 👀 I’m interested in IOS development in swift and Django,PHP as backend Technologies.
+- 👀 I’m interested in Django, PHP, NodeJS as backend Technologies.
 
-- 🌱 I’m currently learning **C++** .
+- 🌱 I’m currently learning **NodeJS** .
 
-- 💬 Ask me about **Swift,IOS,Django, PHP **
+- 💬 Ask me about **Swift,IOS,Django,PHP, NodeJS **
 
 
-- 💞️ I’m looking to collaborate on Opensource Project in Swift or Python
-- 📝 Checkout my [Resume](https://docs.google.com/document/d/1L3ez-1ZJftdwUzllSfcY9d8DudHKnVDy/edit?usp=sharing&ouid=109661156507991700405&rtpof=true&sd=true).
+- 💞️ I’m looking to collaborate on Opensource Project in Swift, Python, NodeJS, PHP Laravel
+- 📝 Checkout my [Resume](https://docs.google.com/document/d/1_HhdbFwQrIKtmXwvbOtJClJAhhbowysE/edit?usp=sharing&ouid=109661156507991700405&rtpof=true&sd=true).
 
 
 #### Development Stuffs
@@ -48,9 +48,7 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/apple/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a>
-
 #### Other Knowledge
-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -76,7 +74,7 @@
 #### Connect With Me
 
 <p left="center">
-  <a href="mailto:Suleman.ali303@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25/></a> <a href="https://join.skype.com/invite/TQ1W9Bd38wkG"><img  src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25 /></a> <a href="skype:sulemanali93"><img  src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25/></a> <a href="mailto:Sulemanali511@hotmail.com"><img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25/></a> <a href="https://api.whatsapp.com/send?phone=15551234567&text=Hello Suleman Ali I Need Your Service"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25/></a> <a href="https://www.linkedin.com/in/suleman-ali-24155b10a/">
+  <a href="mailto:ib2suleman.ali@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25/></a> <a href="https://join.skype.com/invite/TQ1W9Bd38wkG"><img  src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25 /></a> <a href="skype:sulemanali93"><img  src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25/></a> <a href="mailto:Sulemanali511@hotmail.com"><img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25/></a> <a href="https://api.whatsapp.com/send?phone=15551234567&text=Hello Suleman Ali I Need Your Service"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25/></a> <a href="https://www.linkedin.com/in/suleman-ali-24155b10a/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
   </p>
