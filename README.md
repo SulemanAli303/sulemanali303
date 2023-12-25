@@ -24,7 +24,7 @@
 
 
 - 💞️ I’m looking to collaborate on Opensource Project in Swift, Python, NodeJS, PHP Laravel
-- <!---📝 Checkout my [Resume](https://docs.google.com/document/d/1_HhdbFwQrIKtmXwvbOtJClJAhhbowysE/edit?usp=sharing&ouid=109661156507991700405&rtpof=true&sd=true). !--->
+
 
 
 #### Development Stuffs
@@ -71,10 +71,4 @@
 
  </p>
 
-#### Connect With Me
 
-<p left="center">
-  <a href="mailto:ib2suleman.ali@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25/></a> <a href="https://join.skype.com/invite/TQ1W9Bd38wkG"><img  src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25 /></a> <a href="skype:sulemanali93"><img  src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25/></a> <a href="mailto:Sulemanali511@hotmail.com"><img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25/></a> <a href="https://api.whatsapp.com/send?phone=15551234567&text=Hello Suleman Ali I Need Your Service"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25/></a> <a href="https://www.linkedin.com/in/suleman-ali-24155b10a/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-  </p>
