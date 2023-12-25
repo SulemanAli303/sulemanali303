@@ -24,7 +24,7 @@
 
 
 - 💞️ I’m looking to collaborate on Opensource Project in Swift, Python, NodeJS, PHP Laravel
-- 📝 Checkout my [Resume](https://docs.google.com/document/d/1_HhdbFwQrIKtmXwvbOtJClJAhhbowysE/edit?usp=sharing&ouid=109661156507991700405&rtpof=true&sd=true).
+- <!---📝 Checkout my [Resume](https://docs.google.com/document/d/1_HhdbFwQrIKtmXwvbOtJClJAhhbowysE/edit?usp=sharing&ouid=109661156507991700405&rtpof=true&sd=true). !--->
 
 
 #### Development Stuffs
