@@ -14,7 +14,7 @@
 
 
 
-- 👋 Hi, I’m **@Suleman Ali**  Software Engineer. with **11+ years** of experience in **Mobile Technologies**(Ntive). most of my work is based on Google Maps, places, directions Apis,Coorinates locations,Webrtc, XMPP and Banking, and Social Apps.
+- 👋 Hi, I’m **@Suleman Ali**  Software Engineer. with **11+ years** of experience in **Mobile Technologies**(Native). most of my work is based on Google Maps, places, directions Apis,Coorinates locations,Webrtc, XMPP and Banking, and Social Apps.
 
 - 👀 I’m interested in Django, PHP, NodeJS as backend Technologies.
 
