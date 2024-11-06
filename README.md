@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-As a **Senior iOS Developer** with over **11 years** of experience, I specialize in creating dynamic, user-focused mobile applications. My expertise lies in building high-performance native iOS apps that deliver seamless user experiences. I am particularly skilled in leveraging cutting-edge technologies to ensure functionality, intuitiveness, and optimal performance. Key areas of focus include:
+As a **Senior iOS Developer** with over **7 years** of experience, I specialize in creating dynamic, user-focused mobile applications. My expertise lies in building high-performance native iOS apps that deliver seamless user experiences. I am particularly skilled in leveraging cutting-edge technologies to ensure functionality, intuitiveness, and optimal performance. Key areas of focus include:
 
 - **Advanced Swift and Objective-C** development
 - Extensive use of **CoreLocation**, **MapKit**, **WebRTC**, **XMPP**, and **RESTful APIs**
