@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suleman%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer%20%7C%20Python%20Backend%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=7%2B+Years+Shipping+Production+iOS+Apps+%F0%9F%9A%80;3M%2B+Downloads+Across+My+Portfolio+%F0%9F%8C%8D;Django+%7C+REST+APIs+%7C+Cloud+%7C+DevOps+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=8%2B+Years+Shipping+Production+iOS+Apps+%F0%9F%9A%80;3M%2B+Downloads+Across+My+Portfolio+%F0%9F%8C%8D;Django+%7C+REST+APIs+%7C+Cloud+%7C+DevOps+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 ```swift
 let suleman = iOSDeveloper(
-    experience:   "7+ years",
+    experience:   "8+ years",
     downloads:    "3,000,000+",
     teams:        "Led 12 engineers across 4 countries",
     domains:      ["FinTech", "Government", "HRTech", "Social", "Ride-Hailing", "OTT", "SaaS"],
